@@ -3,14 +3,12 @@ Plaim et engagement de confidentialité:
 - Permission nécessaire
 Afin de pouvoir traquer vos animés préféré et être notifié de leurs sorties, vous devez autoriser les notifications de planim.
 
-- Write external storage
-Allows an application to write to external storage.
-- access network state
-check if your phone has an internet connection or not.
-- Access wifi state
-used to get images and display it.
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Top Anime Wallpapers unless otherwise defined in this Privacy Policy.
+- Ecriture dans l'espace interne du téléphone
+Afin de garder vos préférences l'application stock de manière complétement transparante vos animés préférés. Le poid occupé dans votre espace de stockage est minime.
+
+- Accés à internet
+L'application ne fonctionne pas sans accés internet, vous aurais simplement des espaces noir dans l'ensemble des vues.
+
 
 Information Collection and Use
 
